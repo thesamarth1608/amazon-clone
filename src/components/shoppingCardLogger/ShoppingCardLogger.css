@@ -152,8 +152,14 @@ font-weight: 400;
 .puise-addtoCart-cotainer{
   /* border: 1px solid  red; */
 }
+button {
+  all: unset;
+  cursor: pointer;
+}
 .item-to-cart-container{
-  border: 1px solid  red;
+  
+  /* border: 1px solid  red; */
+
   margin-top: 15px;
   cursor: pointer;
   /* width: 100px; */

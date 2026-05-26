@@ -1,5 +1,5 @@
 .cartGridSection{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,7 +7,7 @@
 }
 .cart-gwlayout{
 
-    border: 1px solid red;
+    /* border: 1px solid red; */
      position: static !important;
   z-index: auto !important;
   margin-top: 20px;
