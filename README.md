@@ -7,7 +7,8 @@ This project replicates the core UI and shopping experience of Amazon with respo
 
 ## 🚀 Live Demo
 
-🌐 Live Site: https://amazon-clone-nu-drab.vercel.app/
+🌐 Live Site: https://amazon-clone-nu-drab.vercel.app
+
 
 📂 GitHub Repository:  
 https://github.com/thesamarth1608/amazon-clone
