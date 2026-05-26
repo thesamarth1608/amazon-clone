@@ -1,0 +1,65 @@
+.navbarBanner{
+    background-color: #232f3e;
+    height: 39px;color: white;
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-between;
+}
+.navbarBannerOptionsLeft{
+    /* border: 1px solid red; */
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+   
+}
+.optionsnavbarBanner{
+    
+    height: 100%;
+    /* border: 1px solid blue; */
+    gap: 2px;
+    display: flex;
+    align-items: center;
+     padding-left: 7px;
+    padding-right: 7px;
+    /* margin-right: 10px; */
+    &:hover{
+        outline: 1px solid white;
+        border-radius: 3px;
+    }
+}
+.optionsnavbarBanner span{
+    font-size: 14px;
+    font-weight: 500;
+}
+.progressiveContent{
+    text-decoration: none;
+    color: #fff;
+    height: 100%;
+    border: 1px solid green;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    /* padding-top: 7px; */
+    padding-left: 5px;
+    padding-right: 5px;
+    &:hover{
+        outline: 1px solid white;
+        border-radius: 3px;
+    }
+}
+.navbarBannerRightside{
+    /* border: 1px solid rgb(12, 226, 219); */
+    height: 37.5px;
+    &:hover{
+        outline: 1px solid white;
+        border-radius: 2px;
+    }
+}
+.primeLogoImg{
+    height:100%;
+}
+.activeBannerLink{
+     outline: 1px solid white;
+     border-radius: 3px;
+}

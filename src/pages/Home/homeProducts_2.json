@@ -1,0 +1,244 @@
+{"CardsData" : [
+    {
+        "id" : 1,
+        "title": "Up to 80% off | Latest collections from Indian arti…",
+        "items" : [
+            {
+                "img": "https://m.media-amazon.com/images/I/913irsXY8nL._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/81E2mcZDGkL._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/81BElxcnowL._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/81wEBYxXiwL._AC_SY170_.jpg",
+                "label" : ""
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "title": "Essentials for Expecting Mothers",
+        "items" : [
+            {
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Schoolfromhome/PCQC/Pregnancy_Supplements._SY116_CB667651395_.jpg",
+                "label" : "Pregnancy Supplements"
+            },
+            {
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Schoolfromhome/PCQC/Maternity_Sleep__Loungewear._SY116_CB667651395_.jpg",
+                "label" : "Maternity Sleep & Loungewear"
+            },
+            {
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Schoolfromhome/PCQC/Maternity_pillows._SY116_CB667651395_.jpg",
+                "label" : "MAternity pillows"
+            },
+            {
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Schoolfromhome/PCQC/Maternity_Skin_care._SY116_CB667651395_.jpg",
+                "label" : "Maternity Skin care"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "title": "Up to 60% off | Home & kitchen essentials from wo…e",
+        "items" : [
+            {
+                "img": "https://m.media-amazon.com/images/I/71QED8-OFhL._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/71jKomm5awL._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/71AISWjoiGL._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/71+e9D-n9NL._AC_SY170_.jpg",
+                "label" : ""
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "title": "Up to 60% Off | Best selling furniture from stores nearby",
+        "items" : [
+            {
+                "img": "https://m.media-amazon.com/images/I/71jiaMDIg9L._AC_SY170_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare1x._SY116_CB410830552_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/316iqnmbenL._AC_SY55_.jpg",
+                "label" : ""
+            },
+            {
+                "img": "https://m.media-amazon.com/images/I/41DG1kDNIKL._AC_SY55_.jpg",
+                "label" : ""
+            }
+        ]
+    }
+    
+],
+"startingAt99Items":[
+    {
+        "id":1,
+        "img":  "https://m.media-amazon.com/images/I/61xivWmExiL._AC_SY200_.jpg"
+    },
+    {
+        "id":2,
+        "img":  "https://m.media-amazon.com/images/I/61+kZfOd40L._AC_SY200_.jpg"
+    },
+    {
+        "id":3,
+        "img":  "https://m.media-amazon.com/images/I/710cYy40DUL._AC_SY200_.jpg"
+    },
+    {
+        "id":4,
+        "img":  "https://m.media-amazon.com/images/I/51fTNsNDdOL._AC_SY200_.jpg"
+    },
+    {
+        "id":5,
+        "img":  "https://m.media-amazon.com/images/I/81vRhp8eWhL._AC_SY200_.jpg"
+    },
+    {
+        "id":6,
+        "img":  "https://m.media-amazon.com/images/I/71CZtlZ19QL._AC_SY200_.jpg"
+    },
+    {
+        "id":7,
+        "img":  "https://m.media-amazon.com/images/I/719l7OCtzTL._AC_SY200_.jpg"
+    },
+    {
+        "id":8,
+        "img":  "https://m.media-amazon.com/images/I/81FShHXy+xL._AC_SY200_.jpg"
+    },
+    {
+        "id":9,
+        "img":  "https://m.media-amazon.com/images/I/712bIHFJvmL._AC_SY200_.jpg"
+    },
+    {
+        "id":10,
+        "img":  "https://m.media-amazon.com/images/I/715qi-cIbML._AC_SY200_.jpg"
+    },
+    {
+        "id":11,
+        "img":  "https://m.media-amazon.com/images/I/71sXWkc3YsL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id":12,
+        "img":  "https://m.media-amazon.com/images/I/81l3rZK4lnL._SY342_.jpg"
+    },
+    {
+        "id":13,
+        "img":  "https://m.media-amazon.com/images/I/61xivWmExiL._AC_SY200_.jpg"
+    },
+    {
+        "id":14,
+        "img":  "https://m.media-amazon.com/images/I/61Ktyy7KymL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id":15,
+        "img":  "https://m.media-amazon.com/images/I/91gWK6JiUgL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id":16,
+        "img":  "https://m.media-amazon.com/images/I/71+oHMoJ8cL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+],
+"HomeItems":[
+    {
+        "id":1,
+        "price":748.00,
+        "quantity":2,
+        "img":"https://m.media-amazon.com/images/I/710SCukwhcL._AC_UY327_FMwebp_QL65_.jpg",
+        "name":"Redmi A4 5G (Starry Black, 6GB RAM, 128GB Storage) | Segment Largest 6.88in 120Hz | 50MP Dual Camera | 18W Fast Charging | Charger in The Box"
+    },
+    {
+        "id":2,
+        "img":"https://m.media-amazon.com/images/I/61AsNTuJ6mL._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 15R | 12GB+256GB | Charcoal Black | World's First Snapdragon® 8 Gen 5 | 7400mAh Battery | Personalised AI | Game-Changing 165Hz Display | IP68 IP69 IP66 & IP69K | 4K 120fps Video"
+    },
+    {
+        "id":3,
+        "img":"https://m.media-amazon.com/images/I/610frsvhyBL._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 15 | 12GB+256GB | Infinite Black | India's First Snapdragon® 8 Elite Gen 5 | 7300mAh Battery | Personalised AI | Game-Changing 165Hz Display | Triple 50MP Camera with 4K 120fps Dolby Vision"
+    },
+    {
+        "id":4,
+        "img":"https://m.media-amazon.com/images/I/81BGKLI+cWL._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"iQOO 15 (Legend, 12GB RAM, 256GB Storage) | Fastest Snapdragon 8 Elite Gen 5 Processor* | Origin OS 6 - Out of The Box* | Samsung 2K M14 Lead OLED Display"
+    },
+    {
+        "id":5,
+        "img":"https://m.media-amazon.com/images/I/616kkUbRg4L._SX425_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 | 7300mAh Battery | Personalised AI | Game-Changing 165Hz Display | Triple 50MP Camera with 4K 120fps Dolby Vision"
+    },
+    {
+        "id":6,
+        "img":"https://m.media-amazon.com/images/I/61h53LtSVVL._SX425_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 15R | 12GB+256GB | Mint Breeze | World's First Snapdragon® 8 Gen 5 | 7400mAh Battery | Personalised AI | Game-Changing 165Hz Display | IP66 IP68 IP69 & IP69K | 4K 120fps Video"
+    },
+    {
+        "id":7,
+        "img":"https://m.media-amazon.com/images/I/51HxVAuLvtL._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"Oppo Reno15Pro mini 5G (Glacier White, 12GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers"
+    },
+    {
+        "id":8,
+        "img":"https://m.media-amazon.com/images/I/71EeBkydf9L._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Astral Trail)"
+    },
+    {
+        "id":9,
+        "img":"https://m.media-amazon.com/images/I/61++T836jiL._SL1500_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus Nord 5 | Snapdragon 8s Gen 3 | Stable 144FPS Gaming | Dual 50MP Flagship Camera | Powered by OnePlus AI | 8GB + 256GB | Marble Sands"
+    },
+    {
+        "id":10,
+        "img":"https://m.media-amazon.com/images/I/71ZrPkGgcLL._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"Galaxy Z Fold6 5G Mobile with Galaxy AI (Silver Shadow, 12GB RAM, 256GB Storage), 50MP High-Resolution Camera, Ultra-Smooth Gaming with Snapdragon 8 Gen 3, Google Gemini"
+    },
+    {
+        "id":11,
+        "img":"https://m.media-amazon.com/images/I/710SCukwhcL._AC_UY327_FMwebp_QL65_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 13s | Snapdragon 8 Elite | Best Battery Life Ever on a Compact Phone | Studio-Grade Detail with Triple AF Cameras | Lifetime Display Warranty | 12GB+256GB | Black Velvet"
+    },
+    {
+        "id":12,
+        "img":"https://m.media-amazon.com/images/I/61++T836jiL._SX679_.jpg",
+         "price":748.00,
+        "quantity":2,
+        "name":"OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Astral Trail)"
+    }
+]
+}

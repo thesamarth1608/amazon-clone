@@ -1,0 +1,58 @@
+.progressiveNav{
+    background-color: #fff;
+    /* border: 1px solid red; */
+    border-bottom: 1px solid #d5d5d5;
+    position: relative;
+    
+}
+.progressiveNav::before{
+    /* border: 1px solid red; */
+    color: #0f1111d9;
+    content: "Electronics";
+    position: absolute;
+    padding: 10px 20px;
+    font-weight: 600;
+    left: 20px;
+    top: 3px;
+    font-size: 14px;
+}
+.spacious{
+    /* border: 1px solid blue; */
+    /* padding-bottom: 15px;
+    padding-top: 15px; */
+    display: flex;
+    justify-content: center;
+    
+}
+.subnav-ul{ 
+    display: flex;
+    /* gap: 30px; */
+    list-style: none;
+}
+.subnav-ul li{
+    display: inline-block;
+}
+
+.sabnav-div{
+    display: flex;
+    gap: 4px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    /* border: 1px solid black; */
+
+}
+.sabnav-div:hover{
+    box-shadow: rgba(240, 46, 170, 0.4) 0px 4px, rgba(240, 46, 170, 0.3) 0px 4px, rgba(240, 46, 170, 0.2) 0px 4px, rgba(240, 46, 170, 0.1) 0px 4px, rgba(240, 46, 170, 0.05) 0px 4px;
+}
+.sabnav-div a{
+    text-decoration: none;
+    color: #0f1111c9;
+    font-size: 12px;
+}
+/* .sabnav-div a:hover{
+    text-decoration: underline;
+    text-decoration-color: #146EB4;
+    text-decoration-thickness: 2px;
+} */

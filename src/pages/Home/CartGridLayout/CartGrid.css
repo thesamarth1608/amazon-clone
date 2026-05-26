@@ -1,0 +1,306 @@
+.cartGridSection{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.cart-gwlayout{
+
+    border: 1px solid red;
+     position: static !important;
+  z-index: auto !important;
+  margin-top: 20px;
+  /* margin-left: 25px; */
+    /* padding: 10px; */
+    /* position: absolute; */
+    width: 96.8%;
+    /* height: 200px; */
+    /* top: 46%; */
+    /* left: 1.9%; */
+    /* transform: translateX(-20%); */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+     gap: 21px;
+     flex-shrink: 0;
+}
+.cardUi{
+    /* border: 1px solid rgb(18, 165, 35); */
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 18px;
+    /* width: 325px; */
+    
+}
+.cardUiTitle{
+    /* border: 1px solid green; */
+    font-size: 20px;
+    margin-bottom: 12px;
+    font-weight: 900;
+}
+.cardUiGrid{
+    /* border: 1px solid red; */
+    display: grid;
+     grid-template-columns: repeat(2, 1fr);
+    row-gap: 30px;
+    column-gap: 10px;
+    /* gap: 10px; */
+    grid-auto-rows: max-content;
+}
+.fluidquadimglab{
+    /* border: 1px solid yellow; */
+    /* width: 100%; */
+    /* height: 165px; */
+    display: flex;
+    flex-direction: column;
+    object-fit: contain;
+}
+.fluidLandScapeImg{
+    width: 96%;
+    height: 100px;
+    display: block;
+    /* object-fit: contain; */
+
+}
+.spanAsize{
+    /* border: 1px solid red; */
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-top: 3px;
+}
+.cardExploreLink {
+    /* border: 1px solid red; */
+    margin-top: 25px;
+    font-size: 13px;
+    color: #007185;           /* Amazon blue */
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.cardExploreLink:hover {
+    text-decoration: underline;
+    color: #C7511F;          /* Amazon orange on hover */
+}
+.homeDetails{
+
+}
+.homeDetailLongCard{
+    /* border: 1px solid blue; */
+    width: 96.8%;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: white;
+    margin-top: 20px;
+}
+.homeDetailLongCardTitle{
+    font-size: 21px;
+    font-weight: 600;
+}
+.homeDetailLongCardItems{
+     /* border: 1px solid rgb(255, 0, 8); */
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 10px 0;
+    overflow: hidden;
+}
+.ScrollDiv{
+     /* border: 1px solid rgb(31, 151, 69); */
+    display: flex;
+    width: 100%;
+    gap: 15px;
+    overflow-x: auto;
+  
+}
+.ScrollDiv::-webkit-scrollbar {
+  height: 6px; 
+}
+.ScrollDiv::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+
+.homeDetailLongCardItem{
+     /* border: 1px solid rgb(227, 158, 79); */
+    display: flex;
+    flex-shrink: 0;
+    cursor: pointer;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 10px;
+     /* filter: grayscale(20%) brightness(97%); */
+     background-color: #f7f8f8;
+    /* background-color: rgb(147, 2447, 247); */
+}
+.homeDetailLongCardItemImg{
+  /* width: 200px; */
+  height: 200px;
+  filter: grayscale(20%) brightness(97%);
+}
+/**************************chat gpt***************************/
+/* .scroll-section {
+  border: 1px solid red;
+  margin-top: 40px;
+  width: 97vw;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.scroll-wrapper {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  padding-bottom: 10px;
+}
+
+.scroll-wrapper::-webkit-scrollbar {
+  height: 6px;
+}
+
+.scroll-wrapper::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.scroll-card {
+  min-width: 150px;
+  background: #fff;
+  border-radius: 8px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.scroll-card img {
+  width: 100%;
+  height: 120px;
+  border-radius: 6px;
+  object-fit: cover;
+} */
+ .horizontalCardGridSection{
+  /* border: 1px solid green; */
+  display: flex;
+  flex-direction: column;
+  /* gap: 5px; */
+  background-color: white;
+  width: 96.8%;
+  /* margin-left: 25px; */
+  margin-top: 25px;
+  overflow: hidden;
+  padding: 20px;
+  /* overflow: hidden; */
+ }
+ .horizonTopSec{
+  display: flex;
+  gap: 20px;
+  /* border: 1px solid red; */
+ }
+ .homeDetailLongCardTitles{
+  /* border: 1px solid red; */
+  display: flex;
+  gap: 18px;
+ }
+ .horizontalCardTiltle{
+   font-size: 22px;
+    margin-bottom: 12px;
+    font-weight: 900;
+ }
+ .seemoreLink{
+  margin-top: 5px;
+    font-size: 14px;
+    color: #007185;           /* Amazon blue */
+    font-weight: 500;
+    text-decoration: none;
+ }
+ .seemoreLink:hover:hover{
+  text-decoration: underline;
+  color: #0f1111;
+ }
+ .scroll-container{
+  /* border: 1px solid black; */
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  padding: 5px;
+ }
+ /* .scroll-btn{
+  position: absolute;
+ } */
+ .scroll-content{
+  /* border: 1px solid green; */
+  display: flex;
+  gap: 10px;
+  padding-bottom: 5px;
+  overflow-x: auto;
+  scrollbar-gutter: stable;
+ }
+ .scroll-content::-webkit-scrollbar{
+  height: 5.5px;
+  /* display: none; */
+ }
+ /* .scroll-content::-webkit-scrollbar:hover{
+  height: 5.5px;
+  display: block;
+ } */
+ /* .scroll-content::-webkit-scrollbar-track {
+  background: #eee;     /* halka grey */
+
+ .scroll-content::-webkit-scrollbar-thumb {
+  background: #a4a1a1c5;      /* grey */
+  border-radius: 10px;
+}
+ .scroll-content::-webkit-scrollbar-thumb:hover {
+  /* background: #8a8a8a; */
+}
+.scroll-content {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+ .hori-item{
+  /* border: 1px solid yellow; */
+  min-width: 200px;
+  /* object-fit: contain; */
+  cursor: pointer;
+ }
+ .hori-item img{
+  width: 100%;
+  object-fit: cover;
+ }
+ .scroll-btn {
+  position: absolute;
+  top: 45%;
+  transform: translateY(-50%);
+  background: white;
+  border: none;
+  font-size: 40px;
+  width: 45px;
+  height: 100px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.6;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  z-index: 10;
+}
+.scroll-btn:hover {
+  opacity: 1;
+}
+.left {
+  left: 0;
+}
+.right {
+  right: 0;
+}

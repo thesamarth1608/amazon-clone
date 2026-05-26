@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+.electronics_Container{
+    /* padding: 10px; */
+    border: 1px solid red;
+}
+.ele-grid-container{
+    border: 1px solid green;
+    display: flex;
+    width: 100%;
+    /* overflow: hidden; */
+}
+.leftNav{
+    border: 1px solid blue;
+    flex: 0 0 14%;
+     box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+.sobe-container{
+    flex: 1;
+    /* border: 1px solid pink; */
+    min-width: 0;
+}
