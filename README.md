@@ -116,6 +116,7 @@ This project can be deployed easily on:
 
 - Vercel
 - Netlify
+Last updated: August 2026
 
 ---
 
