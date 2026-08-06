@@ -1,6 +1,7 @@
 import React from 'react'
 import './NavbarBelt.css'
-import amazonLogo from '../../assets/logo7.jpg'
+// import amazonLogo from '../../assets/logo7.jpg'
+import shopkeeperlogo from '../../assets/Shopcenterlogo.jpg'
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import ArrowDropDownOutlinedIcon from '@mui/icons-material/ArrowDropDownOutlined';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
@@ -17,8 +18,8 @@ const NavbarBelt = () => {
     <div className='navbarBelt'>
     <div className='leftNavBelt'>
         <NavLink to='/' className='leftNavBeltLogo'>
-            <img className='amazonLogoNavbar' src={amazonLogo} alt='amazonLogo'/>
-            <span className='navbar_inLogo'>.in</span>
+            <img className='amazonLogoNavbar' src={shopkeeperlogo} alt='amazonLogo'/>
+            {/* <span className='navbar_inLogo'>.in</span> */}
         </NavLink>
         <div className='navbarBeltLocation'>
           <div className='navbarBeltLocationImg'>

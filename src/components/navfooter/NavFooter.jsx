@@ -1,6 +1,6 @@
 import React from 'react'
 import './NavFooter.css'
-import logo from '../../assets/logo5.jpg'
+import logo from '../../assets/Shopcenterlogo.jpg'
 import flag from '../../assets/flag.png'
 import LanguageOutlinedIcon from '@mui/icons-material/LanguageOutlined';
 import UnfoldMoreIcon from '@mui/icons-material/UnfoldMore';
@@ -98,7 +98,8 @@ const NavFooter = () => {
             <li className='nav_first'>Privacy Notice</li>
             <li className='nav_first'>Interest-Based </li>
         </ul>
-        <span>© 1996-2025, Amazon.com, Inc. or its affiliates</span>
+        <span>© 2026 ShopKart. Built for educational and portfolio purposes only.
+Not affiliated with Amazon or any other brand.</span>
       </div>
     </div>
   )
